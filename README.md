@@ -1,4 +1,4 @@
-# FinText Analyzer: OCR for Financial Documents
+# FinText Analyzer: OCR for Financial Documents -Comin Soon
 
 ![FinText Analyzer Logo](link_to_your_logo_image.png)
 
